@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I am **Sujata Pal**, a passionate **DevOps Engineer** with a love for automation, infrastructure management, and building scalable systems. With a strong foundation in development and a keen interest in cloud-native tools, I enjoy working on solutions that enhance system reliability and team productivity.
+I am **Sujata Pati**, a passionate **DevOps Engineer** with a love for automation, infrastructure management, and building scalable systems. With a strong foundation in development and a keen interest in cloud-native tools, I enjoy working on solutions that enhance system reliability and team productivity.
 
 ---
 
