@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I am **Sujata Pati**, a passionate **DevOps Engineer** with a love for automation, infrastructure management, and building scalable systems. With a strong foundation in development and a keen interest in cloud-native tools, I enjoy working on solutions that enhance system reliability and team productivity.
+I am **Sujata Pati**, a passionate and dedicated DevOps Engineer who is always committed to learning, growing, and contributing to impactful projects. I enjoy working with modern infrastructure tools and cloud platforms, continuously improving systems through automation and optimization. I thrive on solving problems and embracing open-source technologies.
 
 ---
 
@@ -13,7 +13,9 @@ I am **Sujata Pati**, a passionate **DevOps Engineer** with a love for automatio
 * ⚖️ Life-long learner with a growth mindset
 
 ---
+![Views](https://komarev.com/ghpvc/?username=SujataP12\&style=flat-square)
 
+---
 ## 👥 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sujata-pati-8ab878355)
@@ -41,6 +43,16 @@ I am **Sujata Pati**, a passionate **DevOps Engineer** with a love for automatio
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat\&logo=ansible\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat\&logo=prometheus\&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat\&logo=grafana\&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge\&logo=vault\&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-CF2B2B?style=for-the-badge\&logo=minio\&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge\&logo=proxmox\&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge\&logo=owasp\&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-0F172A?style=for-the-badge\&logo=trivy\&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
 
 ---
 
